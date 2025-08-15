@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saagar Shah</h1>
 
-<!--
-**SaagarS04/SaagarS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in the Master of Science in Computational Finance (MSCF) program at Carnegie Mellon University and a graduate of the Quantitative Finance program at Stevens Institute of Technology. I have a passion for algorithmic trading, statistical arbitrage, and building data-driven investment strategies.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+Algorithmic Portfolio Execution – Intraday Equities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This project explores dynamic position sizing and transaction cost analysis for intraday equity trading. The live strategy has achieved a Sharpe ratio of 1.33 YTD, annualized return of 21.67%, annualized volatility of 16.25%, with a maximum drawdown of –8.98%.
+Repository
+
+Kalshi Exchange Pricing – Statistical Arbitrage Strategy
+
+A quantitative trading strategy developed for pricing event contracts on the Kalshi Exchange, including macro events and election outcomes. The project details the pricing mechanism, data pipeline, and backtest results demonstrating potential statistical arbitrage opportunities.
+Repository
+
+📊 GitHub Stats
+
+
+
+
+🌐 Connect with Me
+
+LinkedIn
+
+Email: saagarshah@example.com
+
+Thanks for visiting my profile!
