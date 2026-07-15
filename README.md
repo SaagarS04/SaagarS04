@@ -5,7 +5,8 @@ I'm a student in the Master of Science in Computational Finance (MSCF) program a
 ## Featured Projects
 **[Algorithmic Portfolio Execution – Intraday Equities](https://github.com/SaagarS04/Algorithmic-Portfolio-Execution-Intraday-Equities-Results)**  
 
-Live Traded, Real Capital
+** Live Traded, Real Capital **
+
 Systematic intraday equities strategy across 5,000+ names. Ensemble ML (XGBoost, LSTM) for return, volatility, and covariance forecasting, mean-variance portfolio optimization, and a CUDA + multiprocessing pipeline with 70% tick-to-trade latency reduction.
 
 **[MLB Prediction Markets: TransFusion Generative Model Research Paper](https://github.com/user-attachments/assets/d0a2e880-3162-42bb-a424-d671d1253d0d)**
@@ -14,7 +15,7 @@ Hybrid Transformer–Diffusion generative model for pitch-level MLB simulation. 
 
 **[MLB Prediction Markets: LoRA Trading Performance Report](https://github.com/SaagarS04/MLB-Prediction-Markets-TransFusion-Generative-Model/blob/main/performance_report_public.pdf)**
 
-Live Traded, Real Capital
+** Live Traded, Real Capital **
 
 62% Win Rate, 26.1% Return on Capital
 
