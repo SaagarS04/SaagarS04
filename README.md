@@ -13,6 +13,7 @@ Systematic intraday equities strategy across 5,000+ names. Ensemble ML (XGBoost,
 Hybrid Transformer–Diffusion generative model for pitch-level MLB simulation. Joint outcome + physics prediction with DDIM sampling and RE24-tilted MCMC rollouts for prediction-markets trading. 82% game accuracy, Brier < 0.14.
 
 **[MLB Prediction Markets: LoRA Trading Performance Report](https://github.com/SaagarS04/MLB-Prediction-Markets-TransFusion-Generative-Model/blob/main/performance_report_public.pdf)**
+
 **Live Traded, Real Capital**
 
 62% Win Rate, 26.1% Return on Capital
