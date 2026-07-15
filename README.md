@@ -7,8 +7,8 @@ I'm a student in the Master of Science in Computational Finance (MSCF) program a
 
 Systematic intraday equities strategy across 5,000+ names. Ensemble ML (XGBoost, LSTM) for return, volatility, and covariance forecasting, mean-variance portfolio optimization, and a CUDA + multiprocessing pipeline with 70% tick-to-trade latency reduction.
 
-- **[MLB Prediction Markets: TransFusion Generative Model<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/d0a2e880-3162-42bb-a424-d671d1253d0d" />
-](https://github.com/SaagarS04/MLB-Prediction-Markets-TransFusion-Generative-Model/blob/main/10707_Project_Report.pdf)**  
+- **[MLB Prediction Markets: TransFusion Generative Model Research Paper]("https://github.com/user-attachments/assets/d0a2e880-3162-42bb-a424-d671d1253d0d")**
+- **[MLB Prediction Markets: LoRA Trading Performance Report](https://github.com/SaagarS04/MLB-Prediction-Markets-TransFusion-Generative-Model/blob/main/performance_report_public.pdf)**
 
 Hybrid Transformer–Diffusion generative model for pitch-level MLB simulation. Joint outcome + physics prediction with DDIM sampling and RE24-tilted MCMC rollouts for prediction-markets trading. 82% game accuracy, Brier < 0.14.
 
