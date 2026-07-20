@@ -15,7 +15,7 @@ I'm a student in the Master of Science in Computational Finance (MSCF) program a
 **[MLB Prediction Markets: LoRA Trading Performance Report](https://github.com/SaagarS04/MLB-Prediction-Markets-TransFusion-Generative-Model/blob/main/performance_report_public.pdf)**
 
 - Live Traded, Real Capital
-- 62% Win Rate, 26.1% Return on Capital
+- 61% Win Rate, 35% Return on Capital
 
 ## Connect with Me
 
